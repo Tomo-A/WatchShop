@@ -1,0 +1,44 @@
+header{
+    width:960px;
+    height:99px;
+    margin:0 auto;
+}
+header img{
+    float:left;
+}
+.box{
+    position:relative;
+}
+body{
+    min-width:960px;
+}
+main img{
+    display:block;
+    margin:0 auto;
+}
+form p{
+    text-align:center;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.loginform{
+    text-align:center;
+    background-color:white;
+    position:absolute;
+    width:400px;
+    height:300px;
+    top:20%;
+    left:35%;
+    margin:0px;
+    padding:20px;
+}
+input{
+    margin:10px;
+}
+.add{
+    font-size:12px;
+}
+footer p{
+    text-align:center;
+    margin:20px;
+}

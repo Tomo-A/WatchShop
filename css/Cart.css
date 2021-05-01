@@ -1,0 +1,65 @@
+header{
+    background-color:white;
+    height:99px;
+    margin:0 auto;
+}
+body{
+    color:#FFFFFF;
+    min-width:960px;
+    background-color:#000080;
+}
+header img{
+    float:left;
+}
+header form{
+    float:right;
+}
+header input{
+    background-color:white;
+    font-weight:bold;
+    height:50px;
+    width:100px;
+    margin-top:20px;
+}
+footer p{
+    text-align:center;
+    margin:20px;
+}
+main img{
+    margin:20px 30px 30px 30px;
+    width:200px;
+    height:200px;
+}
+main h1{
+    font-size:20px;
+    margin:30px;
+    
+}
+main input{
+    margin:30px;
+}
+.total{
+    margin-left:30px;
+}
+table{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+td{
+    text-align:center;
+    vertical-align:middle;
+}
+.tableprice{
+    padding-left:20px;
+}
+a{
+    color:white;
+    display:block;
+    margin:0 auto;
+    text-align:center;
+}
+.errmsg{
+    color:red;
+    font-weight:bold;
+    margin-left:25px;
+}

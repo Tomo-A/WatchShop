@@ -1,0 +1,69 @@
+header{
+    background-color:white;
+    height:99px;
+    margin:0 auto;
+}
+body{
+    color:#FFFFFF;
+    min-width:960px;
+    background-color:#000080;
+}
+header img{
+    float:left;
+}
+header username{
+    border:solid 1px black;
+    color:black;
+}
+header form{
+    float:right;
+}
+header input{
+    background-color:white;
+    font-weight:bold;
+    height:50px;
+    width:100px;
+    margin-top:20px;
+}
+div img{
+    width:200px;
+    height:200px;
+    display:block;
+    margin:0 auto;
+}
+div {
+    margin-top:100px;
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+    border:solid 1px black;
+    background-color:white;
+}
+div p{
+    color:black;
+    text-align:center;
+    padding:10px;
+}
+div a{
+    display:block;
+    text-align:center;
+}
+footer p{
+    text-align:center;
+    margin:20px;
+}
+.total{
+    text-align:center;
+    font-size: 25px;
+    margin-top: 25px;
+}
+.result{
+    text-align:center;
+    font-size: 25px;
+    margin-top: 25px;
+}
+.backcart a{
+    display:block;
+    text-align:center;
+    color:white;
+}

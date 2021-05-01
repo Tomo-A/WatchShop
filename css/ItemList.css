@@ -1,0 +1,97 @@
+header{
+    background-color:white;
+    height:99px;
+    margin:0 auto;
+}
+body{
+    color:#FFFFFF;
+    min-width:960px;
+    background-color:#000080;
+}
+header img{
+    float:left;
+}
+header .username{
+    float:left;
+    color:black;
+    margin-top:30px;
+}
+header form{
+    float:right;
+}
+header input{
+    background-color:white;
+    font-weight:bold;
+    height:50px;
+    width:100px;
+    margin-top:20px;
+}
+main>img{
+    display:block;
+    margin:0 auto;
+}
+.mainFlex{
+    display:flex;
+    margin:0 auto;
+}
+.serch{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.serch select{
+    flex:1;
+    width:200px;
+    margin:20px 10px;
+}
+nav{
+    width:190px;
+}
+nav a{
+    font-weight:bold;
+    color:black;
+    text-decoration: none;
+}
+ul img{
+    padding-top:10px;
+}
+nav li{
+    border-bottom:solid 1px black;
+    text-align:center;
+    background-color:white;
+    margin-left:10px;
+    padding:20px;
+}
+.flex-container{
+    display:flex;
+    flex-wrap:wrap;
+}
+.flex-item{
+    margin-top:20px;
+    margin-left:20px;
+    height:200px;
+    background-color:white;
+    text-align:center;
+    width:180px;
+}
+.flex-item img{
+    margin-top:20px;
+    width:100px;
+    height:100px;
+}
+.flex-item input{
+    margin-top:10px;
+}
+.flex-item p{
+    color:black;
+    text-align:center;
+}
+footer p{
+    text-align:center;
+    margin:20px;
+}
+.sold_out{
+    display:block;
+    padding-top:10px;
+    color:red;
+}
